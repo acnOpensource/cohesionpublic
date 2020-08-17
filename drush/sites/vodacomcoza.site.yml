@@ -1,0 +1,63 @@
+dev:
+  root: /var/www/html/vodacomcoza.dev/docroot
+  ac-site: vodacomcoza
+  ac-env: dev
+  ac-realm: prod
+  uri: vodacomcozadev.prod.acquia-sites.com
+  dev.livedev:
+    parent: '@vodacomcoza.dev'
+    root: /mnt/gfs/vodacomcoza.dev/livedev/docroot
+  host: vodacomcozadev.ssh.prod.acquia-sites.com
+  user: vodacomcoza.dev
+  paths:
+    drush-script: drush9
+prod:
+  root: /var/www/html/vodacomcoza.prod/docroot
+  ac-site: vodacomcoza
+  ac-env: prod
+  ac-realm: prod
+  uri: vodacomcoza.prod.acquia-sites.com
+  prod.livedev:
+    parent: '@vodacomcoza.prod'
+    root: /mnt/gfs/vodacomcoza.prod/livedev/docroot
+  host: vodacomcoza.ssh.prod.acquia-sites.com
+  user: vodacomcoza.prod
+  paths:
+    drush-script: drush9
+ra:
+  root: /var/www/html/vodacomcoza.ra/docroot
+  ac-site: vodacomcoza
+  ac-env: ra
+  ac-realm: prod
+  uri: vodacomcozara.prod.acquia-sites.com
+  ra.livedev:
+    parent: '@vodacomcoza.ra'
+    root: /mnt/gfs/vodacomcoza.ra/livedev/docroot
+  host: vodacomcozara.ssh.prod.acquia-sites.com
+  user: vodacomcoza.ra
+  paths:
+    drush-script: drush9
+test:
+  root: /var/www/html/vodacomcoza.test/docroot
+  ac-site: vodacomcoza
+  ac-env: test
+  ac-realm: prod
+  uri: vodacomcozastg.prod.acquia-sites.com
+  test.livedev:
+    parent: '@vodacomcoza.test'
+    root: /mnt/gfs/vodacomcoza.test/livedev/docroot
+  host: vodacomcozastg.ssh.prod.acquia-sites.com
+  user: vodacomcoza.test
+  paths:
+    drush-script: drush9
+local:
+  docker:
+    service: appserver
+    exec:
+      options: >-
+        --user www-data -e COLUMNS=${DRUSH_COLUMNS} -e
+        DRUSH_PATHS_ALIAS_PATH=/app/drush/sites
+  uri: 'http://vodacomcoza.lndo.site/'
+  root: /app/docroot
+  paths:
+    drush-script: /app/vendor/drush/drush/drush

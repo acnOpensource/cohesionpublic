@@ -1,0 +1,13 @@
+uuid: da456494-12e9-48d6-a52c-9a32ced2454d
+langcode: en
+status: true
+dependencies: {  }
+id: acquia-blue
+label: 'Acquia Blue'
+json_values: '{"link":true,"name":"Acquia Blue","uid":"acquia-blue","class":".coh-color-acquia-blue","variable":"$coh-color-acquia-blue","value":{"value":{"hex":"#e60000","rgba":"rgba(230, 0, 0, 1)"}},"inuse":true,"tags":[{"label":"Acquia","value":"acquia"}]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+weight: 9

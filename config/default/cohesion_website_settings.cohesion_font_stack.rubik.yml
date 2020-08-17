@@ -1,0 +1,13 @@
+uuid: 34e5711f-20d2-4183-9587-a7041d959425
+langcode: en
+status: true
+dependencies: {  }
+id: rubik
+label: Rubik
+json_values: '{"inuse":true,"systemfont":false,"name":"Rubik","uid":"rubik","class":".coh-font-rubik","variable":"$coh-font-rubik","fontStack":"''Rubik'', sans-serif;","smoothing":{"firefox":true,"webkit":true},"link":true}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+source: fontStacks

@@ -1,0 +1,20 @@
+uuid: 5bd5dff5-bb0d-41e4-87d7-fe0ee31dfa9e
+langcode: en
+status: true
+dependencies:
+  module:
+    - cohesion_custom_styles
+    - serialization
+    - user
+_core:
+  default_config_hash: fCBOIz3gieihWosUXNqoHrVMPEp7SW5Z8JWOWiylROg
+id: cohesion_custom_style_type
+plugin_id: cohesion_custom_style_type
+granularity: resource
+configuration:
+  methods:
+    - GET
+  formats:
+    - json
+  authentication:
+    - cookie

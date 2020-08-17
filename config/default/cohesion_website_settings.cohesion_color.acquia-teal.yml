@@ -1,0 +1,13 @@
+uuid: 5cc9b158-4096-4b55-bb3f-fc28b6dcae6c
+langcode: en
+status: true
+dependencies: {  }
+id: acquia-teal
+label: 'Acquia Teal'
+json_values: '{"link":true,"name":"Acquia Teal","uid":"acquia-teal","class":".coh-color-acquia-teal","variable":"$coh-color-acquia-teal","value":{"value":{"hex":"#66c8ca","rgba":"rgba(102, 200, 202, 1)"}},"tags":[{"label":"Acquia","value":"acquia"}],"inuse":false}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+weight: 12

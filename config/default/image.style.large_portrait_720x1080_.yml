@@ -1,0 +1,15 @@
+uuid: 1fee4fc4-038d-4a4a-a9db-e6d5a8462e5e
+langcode: en
+status: true
+dependencies: {  }
+name: large_portrait_720x1080_
+label: 'Large portrait (720x1080)'
+effects:
+  10cfbd32-fd81-43a4-ab34-9234e434e617:
+    uuid: 10cfbd32-fd81-43a4-ab34-9234e434e617
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 720
+      height: 1008
+      anchor: center-center

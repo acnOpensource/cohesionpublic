@@ -1,0 +1,18 @@
+uuid: 54b11d80-740a-4af5-9c1e-5665e4345575
+langcode: en
+status: false
+dependencies: {  }
+id: media_remote_video_token
+label: 'Token (Media, Remote video)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: media
+bundle: remote_video
+view_mode: token
+master_template: ''

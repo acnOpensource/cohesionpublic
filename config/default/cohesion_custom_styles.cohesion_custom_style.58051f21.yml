@@ -1,0 +1,17 @@
+uuid: f83c5a10-96d3-4e5b-94a5-5a313df75c48
+langcode: en
+status: true
+dependencies: {  }
+id: 58051f21
+label: 'Price row'
+json_values: '{"preview":{"text":"<p class=\"coh-preview\">Default content for ''Paragraph''.<\/p>\n","textFormat":"cohesion"},"styles":{"settings":{"element":"p","class":"","combinator":"","pseudo":""},"styles":{"xl":{"display":{"value":"flex"},"flex-container":{"justify-content":{"value":"space-between"}},"background-color":{"value":{"value":{"hex":"#239ed3","rgba":"rgba(35, 158, 211, 1)"}}},"padding":{"padding-equal":{"value":"8"}},"color":{"value":{"name":"White","uid":"white","value":{"hex":"#ffffff","rgba":"rgba(255, 255, 255, 1)"},"wysiwyg":true,"class":".coh-color-white","variable":"$coh-color-white","inuse":true,"link":true}},"margin":{"margin-bottom":{"value":"4"}},"text-align":{"value":"left"}}}},"sBackgroundColour":"#FFFFFF"}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":"Paragraph","formDefinition":[{"formKey":"layout","children":[{"formKey":"display","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"display","active":true},{"name":"visibility","active":false},{"name":"overflow","active":false},{"name":"overflow-x","active":false},{"name":"overflow-y","active":false}]},{"formKey":"flex-container","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"flex-direction","active":false},{"name":"flex-wrap","active":false},{"name":"justify-content","active":true},{"name":"justify-content-safety","active":true},{"name":"align-content","active":false},{"name":"align-content-safety","active":true},{"name":"align-items","active":false},{"name":"align-items-safety","active":true}]},{"formKey":"padding","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"padding-equal","active":true},{"name":"padding-top","active":false},{"name":"padding-bottom","active":false},{"name":"padding-left","active":false},{"name":"padding-right","active":false}]},{"formKey":"margin","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":false},{"name":"margin-bottom","active":true},{"name":"margin-left","active":false},{"name":"margin-right","active":false}]}]},{"formKey":"background","children":[{"formKey":"background-color","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"background-color","active":true}]}]},{"formKey":"font","children":[{"formKey":"font-and-color","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"font-family","active":false},{"name":"font-weight","active":false},{"name":"color","active":true}]},{"formKey":"font-sizing-and-alignment","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"font-size","active":false},{"name":"line-height","active":false},{"name":"text-align","active":true},{"name":"letter-spacing","active":false},{"name":"word-spacing","active":false},{"name":"text-indent","active":false}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-price-row
+custom_style_type: paragraph
+available_in_wysiwyg: false
+parent: null
+weight: 72

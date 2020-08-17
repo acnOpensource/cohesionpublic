@@ -1,0 +1,14 @@
+uuid: ffbecaa8-9517-4411-8be6-6b7ce83e8696
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.terms_condition_page_reviewer
+  module:
+    - user
+id: user_add_role_action.terms_condition_page_reviewer
+label: 'Add the Terms &amp; Condition Page reviewer role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: terms_condition_page_reviewer

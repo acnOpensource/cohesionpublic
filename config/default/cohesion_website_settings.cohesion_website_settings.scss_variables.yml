@@ -1,0 +1,12 @@
+uuid: 9e92caaa-fcf4-4281-ad7a-17836d87a5ae
+langcode: en
+status: true
+dependencies: {  }
+id: scss_variables
+label: 'SCSS variables'
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: false
+selectable: true

@@ -1,0 +1,14 @@
+uuid: 3e809815-7d65-45fd-992a-e36d07502da3
+langcode: en
+status: true
+dependencies: {  }
+id: cpt_cat_accordion_components
+label: 'Accordion components'
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: false
+selectable: true
+class: category-8
+weight: -5

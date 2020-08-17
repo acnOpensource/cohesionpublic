@@ -1,0 +1,14 @@
+uuid: 5d8ced1f-f132-4d50-ab94-dceddc2db597
+langcode: en
+status: true
+dependencies: {  }
+id: cpt_cat_slider_components
+label: 'Slider components'
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: false
+selectable: true
+class: category-7
+weight: -6

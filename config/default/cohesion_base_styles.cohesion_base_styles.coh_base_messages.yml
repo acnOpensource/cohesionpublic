@@ -1,0 +1,13 @@
+uuid: f52fab64-d614-46ac-abe1-143346296935
+langcode: en
+status: true
+dependencies: {  }
+id: coh_base_messages
+label: Messages
+json_values: '{"preview":{"text":"<p>Add your preview HTML element here.<\/p>\n","textFormat":"cohesion"},"styles":{"settings":{"element":".messages"},"styles":{"xl":{"margin":{"margin-bottom":{"value":"24"}},"width":{"value":"100%"}}}},"sBackgroundColour":"#FFFFFF"}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":null,"formDefinition":[{"formKey":"layout","children":[{"formKey":"margin","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":false},{"name":"margin-bottom","active":true},{"name":"margin-left","active":false},{"name":"margin-right","active":false}]},{"formKey":"width","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"min-width","active":false},{"name":"max-width","active":false},{"name":"width","active":true}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+custom: null

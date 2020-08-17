@@ -1,0 +1,13 @@
+uuid: 0337614f-55e1-4fdb-9296-1faf90af6407
+langcode: en
+status: true
+dependencies: {  }
+id: generic-8d6da5a8
+label: 'Teaser image'
+json_values: '{"settings":{"title":"Image","styles":{"xl":{"displaySize":"coh-image-responsive","imageAlignment":"coh-image-align-left"}},"lazyload":false,"customStyle":[{"customStyle":""}],"imageStyle":"medium_lanscape_720x480_","attributes":{}},"context-visibility":{"contextVisibility":{"condition":"ALL"}},"styles":{"settings":{"element":"img"},"styles":{"xl":{"width":{"value":"66%"},"margin":{"margin-left":{"value":"auto"}},"position":{"value":"relative"}},"md":{"width":{"value":"100%"}},"ps":{"width":{"value":"100%"}}}}}'
+json_mapper: '{"settings":{"selectorType":"topLevel","formDefinition":[{"formKey":"image-settings","children":[{"formKey":"image-image","breakpoints":[],"activeFields":[{"name":"image","active":true},{"name":"title","active":true},{"name":"alt","active":true},{"name":"lazyload","active":true}]},{"formKey":"image-size","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"displaySize","active":true},{"name":"imageAlignment","active":true}]},{"formKey":"image-style","breakpoints":[],"activeFields":[{"name":"imageStyle","active":true},{"name":"customStyle","active":true},{"name":"customStyle","active":true}]}]}],"form":null},"styles":{"items":[],"formDefinition":[{"formKey":"layout","children":[{"formKey":"width","breakpoints":[{"name":"xl"},{"name":"md"},{"name":"ps"}],"activeFields":[{"name":"min-width","active":false},{"name":"max-width","active":false},{"name":"width","active":true}]},{"formKey":"margin","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":false},{"name":"margin-bottom","active":false},{"name":"margin-left","active":true},{"name":"margin-right","active":false}]},{"formKey":"position","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"position","active":true},{"name":"top","active":true},{"name":"bottom","active":true},{"name":"left","active":true},{"name":"right","active":true},{"name":"z-index","active":true}]}]}],"selectorType":"topLevel","form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+custom_style_type: generic

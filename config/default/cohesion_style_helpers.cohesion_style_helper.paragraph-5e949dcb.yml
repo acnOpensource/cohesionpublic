@@ -1,0 +1,13 @@
+uuid: f76b9073-cbd5-43ea-a191-bdc8440a7bb3
+langcode: en
+status: true
+dependencies: {  }
+id: paragraph-5e949dcb
+label: 'Price row'
+json_values: '{"settings":{"title":"Paragraph - Price line 1","customStyle":[{"customStyle":""}]},"context-visibility":{"contextVisibility":{"condition":"ALL"}},"styles":{"settings":{"element":"p"},"styles":{"xl":{"display":{"value":"flex"},"flex-container":{"justify-content":{"value":"space-between"}},"background-color":{"value":{"value":{"hex":"#239ed3","rgba":"rgba(35, 158, 211, 1)"}}},"padding":{"padding-equal":{"value":"8"}}}}}}'
+json_mapper: '{"settings":{"selectorType":"topLevel","formDefinition":[{"formKey":"paragraph-settings","children":[{"formKey":"paragraph-paragraph","breakpoints":[],"activeFields":[{"name":"content","active":true}]},{"formKey":"paragraph-style","breakpoints":[],"activeFields":[{"name":"customStyle","active":true},{"name":"customStyle","active":true}]}]}],"form":null},"styles":{"items":[],"formDefinition":[{"formKey":"layout","children":[{"formKey":"display","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"display","active":true},{"name":"visibility","active":false},{"name":"overflow","active":false},{"name":"overflow-x","active":false},{"name":"overflow-y","active":false}]},{"formKey":"flex-container","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"flex-direction","active":false},{"name":"flex-wrap","active":false},{"name":"justify-content","active":true},{"name":"justify-content-safety","active":true},{"name":"align-content","active":false},{"name":"align-content-safety","active":true},{"name":"align-items","active":false},{"name":"align-items-safety","active":true}]},{"formKey":"padding","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"padding-equal","active":true},{"name":"padding-top","active":false},{"name":"padding-bottom","active":false},{"name":"padding-left","active":false},{"name":"padding-right","active":false}]}]},{"formKey":"background","children":[{"formKey":"background-color","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"background-color","active":true}]}]}],"selectorType":"topLevel","form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+custom_style_type: paragraph

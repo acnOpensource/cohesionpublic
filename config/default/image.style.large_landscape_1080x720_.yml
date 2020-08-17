@@ -1,0 +1,15 @@
+uuid: 712e687f-fffe-4b3b-b176-cf6b081d9182
+langcode: en
+status: true
+dependencies: {  }
+name: large_landscape_1080x720_
+label: 'Large landscape (1080x720)'
+effects:
+  c8a3c58a-8e84-42b6-83e5-658f6e4a4292:
+    uuid: c8a3c58a-8e84-42b6-83e5-658f6e4a4292
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1080
+      height: 720
+      anchor: center-center

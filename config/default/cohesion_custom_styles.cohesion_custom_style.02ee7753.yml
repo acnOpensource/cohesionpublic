@@ -1,0 +1,17 @@
+uuid: 0a20b379-0d55-48aa-b816-66846d73d07f
+langcode: en
+status: true
+dependencies: {  }
+id: 02ee7753
+label: 'Flip horizontal'
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">Default content for ''Generic''.<\/div>\n","textFormat":"cohesion"},"sBackgroundColour":"#ffffff","styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"styles":{"xl":{"custom-css":[{"customCssProperty":{"value":"transform"},"customCss":{"value":"scaleX(-1)"}}]}}},"variableFields":[]}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":"Layout","formDefinition":[{"formKey":"custom-css","children":[{"formKey":"css-property-and-css-value","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"custom-css","active":true},{"name":"customCssProperty","active":true},{"name":"customCss","active":true}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-flip-horizontal
+custom_style_type: generic
+available_in_wysiwyg: false
+parent: null
+weight: 0

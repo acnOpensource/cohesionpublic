@@ -1,0 +1,18 @@
+uuid: 2aa9688a-0f03-4503-93a6-6008406a77f9
+langcode: en
+status: false
+dependencies: {  }
+id: node_terms_condition_page_rss
+label: 'RSS (Node, Terms & Condition Page)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: node
+bundle: terms_condition_page
+view_mode: rss
+master_template: ''

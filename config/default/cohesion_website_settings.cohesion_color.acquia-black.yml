@@ -1,0 +1,13 @@
+uuid: 5a54cc50-9321-4590-9589-40350258ba81
+langcode: en
+status: true
+dependencies: {  }
+id: acquia-black
+label: 'Acquia Black'
+json_values: '{"link":true,"name":"Acquia Black","uid":"acquia-black","class":".coh-color-acquia-black","variable":"$coh-color-acquia-black","value":{"value":{"hex":"#1d1714","rgba":"rgba(29, 23, 20, 1)"}},"tags":[{"label":"Acquia","value":"acquia"}],"inuse":true}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+weight: 15

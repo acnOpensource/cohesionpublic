@@ -1,0 +1,17 @@
+uuid: 904a089e-edf7-47f8-a443-8b9a3b12714c
+langcode: en
+status: true
+dependencies: {  }
+id: cd7ec596
+label: 'Map marker info window'
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">Default content for ''Layout''.<\/div>\n","textFormat":"cohesion"},"styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"903e1716-202b-4e22-b264-bb1324f5108c":{"settings":{"element":"h4","class":"","combinator":"","pseudo":""},"styles":{"xl":{"margin":{"margin-bottom":{"value":"8"}}}}},"99ebbac4-4883-4e75-8b00-46a6812ea17d":{"settings":{"element":"p","class":"","combinator":"","pseudo":""},"styles":{"xl":{"margin":{"margin-bottom":{"value":"4"}}}}}},"sBackgroundColour":"#FFFFFF"}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[{"title":"h4","type":"container","items":[],"selectorType":"child","model":"h4","originalLabel":"Child selector","formDefinition":[{"formKey":"layout","children":[{"formKey":"margin","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":false},{"name":"margin-bottom","active":true},{"name":"margin-left","active":false},{"name":"margin-right","active":false}]}]}],"uuid":"903e1716-202b-4e22-b264-bb1324f5108c"},{"title":"p","type":"container","items":[],"selectorType":"child","model":"p","originalLabel":"Child selector","formDefinition":[{"formKey":"layout","children":[{"formKey":"margin","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":false},{"name":"margin-bottom","active":true},{"name":"margin-left","active":false},{"name":"margin-right","active":false}]}]}],"uuid":"99ebbac4-4883-4e75-8b00-46a6812ea17d"}],"title":"Layout","formDefinition":[],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-map-marker-info-window
+custom_style_type: layout
+available_in_wysiwyg: false
+parent: null
+weight: 54

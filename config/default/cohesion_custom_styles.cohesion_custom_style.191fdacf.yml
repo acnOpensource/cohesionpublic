@@ -1,0 +1,17 @@
+uuid: ca661dfb-3192-44d9-90b1-66f9a5062cc0
+langcode: en
+status: true
+dependencies: {  }
+id: 191fdacf
+label: '  Image embed'
+json_values: '{"preview":{"text":"","textFormat":"cohesion"},"styles":{"settings":{"element":"img","class":"","combinator":"","pseudo":""},"52796c10-35fc-485a-8874-8330f22e1c59":{"settings":{"element":".embedded-entity","class":"","combinator":"","pseudo":""},"styles":{"xl":{"padding":{"padding-equal":{"value":"30"}}},"sm":{"padding":{"padding-equal":{"value":"15"}}}}}},"sBackgroundColour":"#ffffff","variableFields":[]}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[{"title":".embedded-entity","type":"container","items":[],"selectorType":"child","model":".embedded-entity","formDefinition":[{"formKey":"layout","children":[{"formKey":"padding","breakpoints":[{"name":"xl"},{"name":"sm"}],"activeFields":[{"name":"padding-equal","active":true},{"name":"padding-top","active":false},{"name":"padding-bottom","active":false},{"name":"padding-left","active":false},{"name":"padding-right","active":false}]}]}],"uuid":"52796c10-35fc-485a-8874-8330f22e1c59"}],"title":"Image","formDefinition":[{"formKey":"layout","children":[{"formKey":"margin","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":true},{"name":"margin-bottom","active":true},{"name":"margin-left","active":true},{"name":"margin-right","active":true}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style--image-embed
+custom_style_type: image
+available_in_wysiwyg: false
+parent: null
+weight: 0

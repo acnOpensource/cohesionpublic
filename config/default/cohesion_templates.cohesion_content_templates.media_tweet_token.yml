@@ -1,0 +1,18 @@
+uuid: 15794fbd-ed6e-468b-a47e-f7fff46bdd74
+langcode: en
+status: false
+dependencies: {  }
+id: media_tweet_token
+label: 'Token (Media, Tweet)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: media
+bundle: tweet
+view_mode: token
+master_template: ''

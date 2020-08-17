@@ -1,0 +1,18 @@
+uuid: a85a9e9d-9297-438e-8490-4a669d2b543b
+langcode: en
+status: false
+dependencies: {  }
+id: block_content_google_map_token
+label: 'Token (Block_content, Google Map)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: block_content
+bundle: google_map
+view_mode: token
+master_template: ''

@@ -1,0 +1,25 @@
+uuid: 1bc5dcdd-4384-4d7c-8701-01e53033ff3b
+langcode: en
+status: true
+dependencies: {  }
+id: terms_condition_page_creator
+label: 'Terms & Condition Page creator'
+weight: 7
+is_admin: false
+permissions:
+  - 'access contextual links'
+  - 'access image_browser entity browser pages'
+  - 'access in-place editing'
+  - 'access toolbar'
+  - 'configure any layout'
+  - 'create terms_condition_page content'
+  - 'create url aliases'
+  - 'edit own terms_condition_page content'
+  - 'use editorial transition create_new_draft'
+  - 'use editorial transition review'
+  - 'use moderation sidebar'
+  - 'use text format rich_text'
+  - 'view any unpublished content'
+  - 'view latest version'
+  - 'view own unpublished content'
+  - 'view terms_condition_page revisions'

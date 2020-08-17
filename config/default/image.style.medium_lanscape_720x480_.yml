@@ -1,0 +1,15 @@
+uuid: 1bf2bc6c-7d40-4f32-beda-42f6dbe0b599
+langcode: en
+status: true
+dependencies: {  }
+name: medium_lanscape_720x480_
+label: 'Medium landscape (720x480)'
+effects:
+  783d93f0-0128-4daa-ad48-92c3324455a6:
+    uuid: 783d93f0-0128-4daa-ad48-92c3324455a6
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 720
+      height: 480
+      anchor: center-center

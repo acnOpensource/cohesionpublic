@@ -1,0 +1,17 @@
+uuid: 2bc591d9-3a4b-4621-ada7-e8a50be09686
+langcode: en
+status: true
+dependencies: {  }
+id: 23f83870
+label: 'Flip vertical'
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">Default content for ''Generic''.<\/div>\n","textFormat":"cohesion"},"sBackgroundColour":"#ffffff","styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"styles":{"xl":{"custom-css":[{"customCssProperty":{"value":"transform"},"customCss":{"value":"scaleY(-1)"}}]}}},"variableFields":[]}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":"Layout","formDefinition":[{"formKey":"custom-css","children":[{"formKey":"css-property-and-css-value","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"custom-css","active":true},{"name":"customCssProperty","active":true},{"name":"customCss","active":true}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-flip-vertical
+custom_style_type: generic
+available_in_wysiwyg: false
+parent: null
+weight: 0

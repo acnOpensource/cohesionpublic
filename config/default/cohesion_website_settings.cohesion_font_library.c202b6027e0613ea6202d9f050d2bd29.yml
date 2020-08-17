@@ -1,0 +1,13 @@
+uuid: 2857eb12-d2d6-4180-bcb1-5a1ab0f261d6
+langcode: en
+status: true
+dependencies: {  }
+id: c202b6027e0613ea6202d9f050d2bd29
+label: Roboto
+json_values: '{"type":"import","name":"Roboto","url":"https:\/\/fonts.googleapis.com\/css?family=Roboto:400,500&display=swap","uid":"c202b6027e0613ea6202d9f050d2bd29"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+source: fonts

@@ -1,0 +1,15 @@
+uuid: 1a080807-b2be-423f-957f-605910fbf228
+langcode: en
+status: true
+dependencies: {  }
+name: medium_portrait_480x720_
+label: 'Medium portrait (480x672)'
+effects:
+  c823203d-5702-4770-bbab-86a451e0b878:
+    uuid: c823203d-5702-4770-bbab-86a451e0b878
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 480
+      height: 672
+      anchor: center-center

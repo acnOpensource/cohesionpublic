@@ -1,0 +1,17 @@
+uuid: 1f2d2176-57ce-4c17-bfde-caf0963a2145
+langcode: en
+status: true
+dependencies: {  }
+id: 5854661a
+label: 'Margin bottom - small phone'
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">These margin values follow the <strong>Responsive grid<\/strong> <strong>Inner gutter <\/strong>values.&nbsp;<\/div>\n","textFormat":"cohesion"},"styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"styles":{"xl":{"margin":{"margin-top":{}}},"lg":{"margin":{"margin-bottom":{}}},"ps":{"margin":{"margin-bottom":{"value":"24"}}}}},"sBackgroundColour":"#ffffff","variableFields":[]}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":"Layout","formDefinition":[{"formKey":"layout","children":[{"formKey":"margin","breakpoints":[{"name":"ps"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":false},{"name":"margin-bottom","active":true},{"name":"margin-left","active":false},{"name":"margin-right","active":false}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-margin-bottom---small-phone
+custom_style_type: layout
+available_in_wysiwyg: false
+parent: null
+weight: 37

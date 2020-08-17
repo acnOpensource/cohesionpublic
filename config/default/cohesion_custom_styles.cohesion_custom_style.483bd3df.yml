@@ -1,0 +1,17 @@
+uuid: c85d0e60-517f-4aa7-b414-7b26a89c62d4
+langcode: en
+status: true
+dependencies: {  }
+id: 483bd3df
+label: 'Master template outer margins'
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">Default content for ''Layout''.<\/div>\n","textFormat":"cohesion"},"styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"styles":{"xl":{"margin":{"margin-left":{"value":"32"},"margin-right":{"value":"32"}}},"md":{"margin":{"margin-left":{"value":"24"},"margin-right":{"value":"24"}}},"sm":{"margin":{"margin-left":{"value":"0"},"margin-right":{"value":"0"}}}}},"sBackgroundColour":"#FFFFFF"}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":"Layout","formDefinition":[{"formKey":"layout","children":[{"formKey":"margin","breakpoints":[{"name":"xl"},{"name":"md"},{"name":"sm"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":false},{"name":"margin-bottom","active":false},{"name":"margin-left","active":true},{"name":"margin-right","active":true}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-master-template-outer-margins
+custom_style_type: layout
+available_in_wysiwyg: false
+parent: null
+weight: 28

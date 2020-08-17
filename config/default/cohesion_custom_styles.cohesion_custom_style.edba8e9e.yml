@@ -1,0 +1,17 @@
+uuid: ba7d6752-69cc-4c0a-b4bb-54e63237ae75
+langcode: en
+status: true
+dependencies: {  }
+id: edba8e9e
+label: 'Margin bottom - small tablet'
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">These margin values follow the <strong>Responsive grid<\/strong> <strong>Inner gutter <\/strong>values.&nbsp;<\/div>\n","textFormat":"cohesion"},"styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"styles":{"xl":{"margin":{"margin-top":{}}},"lg":{"margin":{"margin-bottom":{}}},"sm":{"margin":{"margin-bottom":{"value":"24"}}},"ps":{"margin":{"margin-bottom":{}}}}},"sBackgroundColour":"#ffffff","variableFields":[]}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":"Layout","formDefinition":[{"formKey":"layout","children":[{"formKey":"margin","breakpoints":[{"name":"sm"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":false},{"name":"margin-bottom","active":true},{"name":"margin-left","active":false},{"name":"margin-right","active":false}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-margin-bottom---small-tablet
+custom_style_type: layout
+available_in_wysiwyg: false
+parent: null
+weight: 36

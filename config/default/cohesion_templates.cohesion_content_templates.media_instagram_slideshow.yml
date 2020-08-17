@@ -1,0 +1,18 @@
+uuid: 9f32435f-e4f7-4636-9714-a3f5e8291052
+langcode: en
+status: false
+dependencies: {  }
+id: media_instagram_slideshow
+label: 'Slideshow (Media, Instagram)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: media
+bundle: instagram
+view_mode: slideshow
+master_template: ''

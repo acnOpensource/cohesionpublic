@@ -1,0 +1,13 @@
+uuid: 356270f5-8202-4e6e-8222-628748c229d3
+langcode: en
+status: true
+dependencies: {  }
+id: light-3
+label: 'Light 3'
+json_values: '{"link":true,"value":{"value":{"hex":"#bac0cf","rgba":"rgba(186, 192, 207, 1)"}},"name":"Light 3","uid":"light-3","class":".coh-color-light-3","variable":"$coh-color-light-3","wysiwyg":true,"inuse":true}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+weight: 6

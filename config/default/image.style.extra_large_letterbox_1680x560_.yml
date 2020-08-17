@@ -1,0 +1,15 @@
+uuid: 863d627f-5f6f-422e-8e06-a3f9f7aa7a13
+langcode: en
+status: true
+dependencies: {  }
+name: extra_large_letterbox_1680x560_
+label: 'Extra large letterbox (1680x560)'
+effects:
+  bd5bfa8a-30df-4915-bf88-ac3c90ac7665:
+    uuid: bd5bfa8a-30df-4915-bf88-ac3c90ac7665
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1680
+      height: 560
+      anchor: center-center

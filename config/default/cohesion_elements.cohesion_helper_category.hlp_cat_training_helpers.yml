@@ -1,0 +1,13 @@
+uuid: 5a8550f8-c742-41dd-a84b-df3e162e2d01
+langcode: en
+status: true
+dependencies: {  }
+id: hlp_cat_training_helpers
+label: 'Training helpers'
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: true
+class: category-7
+weight: -4

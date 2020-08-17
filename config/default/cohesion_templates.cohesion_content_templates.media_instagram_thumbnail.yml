@@ -1,0 +1,18 @@
+uuid: bfd279cd-939f-43d9-9c55-433bb9b3a8eb
+langcode: en
+status: false
+dependencies: {  }
+id: media_instagram_thumbnail
+label: 'Thumbnail (Media, Instagram)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: media
+bundle: instagram
+view_mode: thumbnail
+master_template: ''

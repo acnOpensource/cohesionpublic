@@ -1,0 +1,18 @@
+uuid: 7b1ff454-18cf-4429-b5d1-9164085d98ab
+langcode: en
+status: false
+dependencies: {  }
+id: node_landing_page_token
+label: 'Token (Node, Landing page)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: node
+bundle: landing_page
+view_mode: token
+master_template: ''

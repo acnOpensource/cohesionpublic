@@ -1,0 +1,14 @@
+uuid: 879de8d2-9991-440b-aa4d-476191ab8761
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.terms_condition_page_creator
+  module:
+    - user
+id: user_remove_role_action.terms_condition_page_creator
+label: 'Remove the Terms &amp; Condition Page creator role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: terms_condition_page_creator

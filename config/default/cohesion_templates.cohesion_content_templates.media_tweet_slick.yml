@@ -1,0 +1,18 @@
+uuid: 07124a4c-e732-47a3-872a-e74d4e1706f4
+langcode: en
+status: false
+dependencies: {  }
+id: media_tweet_slick
+label: 'Slick carousel (Media, Tweet)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: media
+bundle: tweet
+view_mode: slick
+master_template: ''

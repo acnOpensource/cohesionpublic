@@ -1,0 +1,17 @@
+uuid: af6230f5-3326-407e-9783-984a638c1c00
+langcode: en
+status: true
+dependencies: {  }
+id: '61508736'
+label: 'White glow'
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">Default content for ''Generic''.<\/div>\n","textFormat":"cohesion"},"sBackgroundColour":"#ffffff","styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"styles":{"xl":{"text-shadow":[{"textShadowHorizontal":{"value":"0px"},"textShadowVertical":{"value":"0px"},"textShadowBlurRadius":{"value":"4px"},"textShadowColor":{"value":{"name":"White","uid":"white","value":{"hex":"#ffffff","rgba":"rgba(255, 255, 255, 1)"},"wysiwyg":true,"class":".coh-color-white","variable":"$coh-color-white","inuse":true,"link":true}}}]}}},"variableFields":[]}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":"Layout","formDefinition":[{"formKey":"font","children":[{"formKey":"text-shadow","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"text-shadow","active":true},{"name":"textShadowHorizontal","active":true},{"name":"textShadowVertical","active":true},{"name":"textShadowBlurRadius","active":true},{"name":"textShadowColor","active":true}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-white-glow
+custom_style_type: generic
+available_in_wysiwyg: false
+parent: null
+weight: 0

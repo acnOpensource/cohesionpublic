@@ -1,0 +1,14 @@
+uuid: 13b75c49-bf97-4e61-b6b0-3a8b0e84bb96
+name: 'Vodacom Group Limited'
+mail: sachin.suryavanshi@accenture.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

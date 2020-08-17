@@ -1,0 +1,18 @@
+uuid: 08161cfa-d471-4eaa-8802-cf464147c6da
+langcode: en
+status: false
+dependencies: {  }
+id: contact_message_sitewide_token
+label: 'Token (Contact_message, Contact Form)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: contact_message
+bundle: sitewide
+view_mode: token
+master_template: ''

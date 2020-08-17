@@ -1,0 +1,17 @@
+uuid: 43ce469e-e50a-4975-8c93-add9d0bda60e
+langcode: en
+status: true
+dependencies: {  }
+id: list_item_0e6e48e1
+label: 'Social icon - twitter'
+json_values: '{"preview":{"text":"<ul>\n\t<li class=\"coh-preview coh-style-social-icon\"><a>&nbsp;<\/a><\/li>\n\t<li class=\"coh-preview coh-style-social-icon\"><a>&nbsp;<\/a><\/li>\n\t<li class=\"coh-preview coh-style-social-icon\"><a>&nbsp;<\/a><\/li>\n<\/ul>\n","textFormat":"cohesion"},"sBackgroundColour":"#FFFFFF","styles":{"settings":{"element":"li,dd,dt","class":"","combinator":"","pseudo":""},"f8855a91-8175-41c1-99c3-f1acc50ffa6e":{"settings":{"element":"","class":"","combinator":"","pseudo":":before"},"styles":{"xl":{"content-icon":{"contentIcon":{"value":{"fontFamily":"icomoon","iconName":"61593"}}}}}},"7c4e81d3-bd3e-4444-86e5-27dcbfd6f0f3":{"settings":{"element":"a","class":"","combinator":"","pseudo":""},"styles":{}}}}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[{"title":"a","type":"container","items":[{"title":":before","type":"container","items":[],"selectorType":"pseudo","formDefinition":[{"formKey":"content","children":[{"formKey":"icon","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"contentIcon","active":true}]}]}],"uuid":"f8855a91-8175-41c1-99c3-f1acc50ffa6e"}],"selectorType":"child","model":"a","originalLabel":"Child selector","formDefinition":[],"uuid":"7c4e81d3-bd3e-4444-86e5-27dcbfd6f0f3"}],"title":"List item","formDefinition":[],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-social-icon---twitter
+custom_style_type: list_item
+available_in_wysiwyg: false
+parent: .coh-style-social-icon
+weight: 69

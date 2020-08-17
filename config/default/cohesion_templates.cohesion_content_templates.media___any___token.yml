@@ -1,0 +1,18 @@
+uuid: 49f792e6-c3da-40bb-b895-d28d77b81a98
+langcode: en
+status: false
+dependencies: {  }
+id: media___any___token
+label: 'Token (Media)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: media
+bundle: __any__
+view_mode: token
+master_template: ''

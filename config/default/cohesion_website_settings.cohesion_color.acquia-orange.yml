@@ -1,0 +1,13 @@
+uuid: 536f3ac2-f38a-49e2-b2de-394e9fa9d675
+langcode: en
+status: true
+dependencies: {  }
+id: acquia-orange
+label: 'Acquia Orange'
+json_values: '{"link":true,"name":"Acquia Orange","uid":"acquia-orange","class":".coh-color-acquia-orange","variable":"$coh-color-acquia-orange","value":{"value":{"hex":"#f47a20","rgba":"rgba(244, 122, 32, 1)"}},"tags":[{"label":"Acquia","value":"acquia"}],"inuse":true}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+weight: 10

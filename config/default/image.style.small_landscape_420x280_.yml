@@ -1,0 +1,15 @@
+uuid: fbadf436-dccf-4b7d-abf3-79b0ade384ee
+langcode: en
+status: true
+dependencies: {  }
+name: small_landscape_420x280_
+label: 'Small landscape (420x280)'
+effects:
+  e385e1b1-6205-4e59-99f9-e6a298f9dd26:
+    uuid: e385e1b1-6205-4e59-99f9-e6a298f9dd26
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 420
+      height: 280
+      anchor: center-center

@@ -1,0 +1,17 @@
+uuid: b9b6accb-f6d4-4f9b-8594-d464d9597dc9
+langcode: en
+status: true
+dependencies: {  }
+id: '78614e13'
+label: 'Radio button'
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">Default content for ''Generic''.<\/div>\n","textFormat":"cohesion"},"sBackgroundColour":"#ffffff","styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"styles":{"xl":{"margin":{"margin-top":{"value":"0.5rem"},"margin-bottom":{"value":"0.5rem"},"margin-left":{"value":"0"},"margin-right":{"value":"1rem"}},"display":{"value":"inline-block"}}}},"variableFields":[]}'
+json_mapper: '{"styles":{"selectorType":"topLevel","items":[],"title":"Layout","formDefinition":[{"formKey":"layout","children":[{"formKey":"margin","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"margin-equal","active":false},{"name":"margin-top","active":true},{"name":"margin-bottom","active":true},{"name":"margin-left","active":true},{"name":"margin-right","active":true}]},{"formKey":"display","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"display","active":true},{"name":"visibility","active":false},{"name":"overflow","active":false},{"name":"overflow-x","active":false},{"name":"overflow-y","active":false}]}]}],"form":null}}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-radio-button
+custom_style_type: generic
+available_in_wysiwyg: false
+parent: null
+weight: 5

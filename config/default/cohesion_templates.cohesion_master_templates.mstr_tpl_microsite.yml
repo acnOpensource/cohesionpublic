@@ -1,0 +1,15 @@
+uuid: 7efc1906-9f37-4ed5-a83e-ddff54af5260
+langcode: en
+status: true
+dependencies: {  }
+id: mstr_tpl_microsite
+label: Microsite
+json_values: '{"canvas":[{"type":"item","uid":"drupal-region","title":"Region","status":{"collapsed":true},"uuid":"b9024183-d3c6-4bd3-84a5-608aef7b2248","parentUid":"root","isContainer":false,"children":[]}],"mapper":{"b9024183-d3c6-4bd3-84a5-608aef7b2248":{}},"model":{"b9024183-d3c6-4bd3-84a5-608aef7b2248":{"settings":{"title":"Region","region":{"theme":"cohesion_theme","type":"content"}},"context-visibility":{"contextVisibility":{"condition":"ALL"}},"styles":{"settings":{"element":"region"}}}},"previewModel":{"b9024183-d3c6-4bd3-84a5-608aef7b2248":{}},"variableFields":{"b9024183-d3c6-4bd3-84a5-608aef7b2248":[]}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: true
+selectable: true
+custom: null
+twig_template: page--cohesion--mstr-tpl-microsite
+default: false

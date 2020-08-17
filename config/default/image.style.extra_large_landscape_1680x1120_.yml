@@ -1,0 +1,15 @@
+uuid: 3eabadb1-debf-4df4-bf8d-5fd56f9aa8da
+langcode: en
+status: true
+dependencies: {  }
+name: extra_large_landscape_1680x1120_
+label: 'Extra large landscape (1680x1120)'
+effects:
+  3221dc8b-6bb3-48de-9340-a7060823b2b6:
+    uuid: 3221dc8b-6bb3-48de-9340-a7060823b2b6
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1680
+      height: 1120
+      anchor: center-center

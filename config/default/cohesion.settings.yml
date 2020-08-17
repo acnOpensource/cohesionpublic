@@ -1,0 +1,36 @@
+api_url: 'https://api.cohesiondx.com'
+api_key: ochreplover-80070
+organization_key: vodacom-group-limited-583794
+site_id: 13b75c49-bf97-4e61-b6b0-3a8b0e84bb96
+api_build_status: NO_CONTENT
+google_map_api_key: ''
+elements_permissions: '{}'
+sidebar_view_style: thumbnails
+_core:
+  default_config_hash: gpIMmHdWGMtTf2ZJoO-QHF9bk9ZVESnX-4LD-r3YtTw
+use_dx8: enable
+asset_is_imported: '1'
+log_dx8_error: disable
+animate_on_view_mobile: DISABLED
+add_animation_classes: DISABLED
+image_browser:
+  config:
+    type: medialib_imagebrowser
+    cohesion_media_lib_types:
+      - image
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+  content:
+    type: medialib_imagebrowser
+    cohesion_media_lib_types:
+      - image
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0

@@ -1,0 +1,14 @@
+uuid: fd810c78-9a40-4480-9e3d-339ee665f8d7
+langcode: en
+status: true
+dependencies: {  }
+id: cpt_cat_template_components
+label: 'Template components'
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0027
+locked: false
+modified: false
+selectable: true
+class: category-12
+weight: 1
